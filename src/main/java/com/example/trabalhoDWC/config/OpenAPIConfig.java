@@ -1,4 +1,4 @@
-package com.example.trabalhoDWC.config;
+/*package com.example.trabalhoDWC.config;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Contact;
@@ -28,3 +28,4 @@ import org.springframework.context.annotation.Configuration;
 )
 public class OpenAPIConfig {
 }
+*/
